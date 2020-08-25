@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my webpage! I am a Reasearch Assistant at [ETH Zurich](ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](ethz.ch/). While completing this program, I have intered at [Swisscom](https://www.swisscom.ch) as a Software Engineer.
+Welcome to my webpage! I am a Reasearch Assistant at [ETH Zurich](ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](ethz.ch/). While completing this program, I have interned at [Swisscom](https://www.swisscom.ch) as a Software Engineer.
