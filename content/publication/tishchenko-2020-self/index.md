@@ -22,7 +22,7 @@ url_pdf: 'https://www.research-collection.ethz.ch/handle/20.500.11850/431668'
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'smart'
   preview_only: false
 
 # Projects (optional).
