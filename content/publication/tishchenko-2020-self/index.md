@@ -7,7 +7,7 @@ subtitle: ''
 summary: 'Master''s thesis, Computer Vision and Geometry Group, ETH Zurich'
 authors:
 - "Ivan Tishchenko" 
-- "supervised by Sandro Lombardi, Dr. Martin Oswald, Prof. Marc Pollefyes"
+- "supervised by Sandro Lombardi, Dr. Martin Oswald, Prof. Marc Pollefeys"
 tags: []
 categories: []
 date: '2020-01-01'
