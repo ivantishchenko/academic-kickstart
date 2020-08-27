@@ -55,8 +55,8 @@ date_format = "Jan 2006"
   company = "Interdisciplinary Centre for Security, Reliability and Trust"
   company_url = "https://wwwen.uni.lu/snt"
   location = "Luxembourg, Luxembourg"
-  date_start = "2016-09-01"
-  date_end = "2017-02-01"
+  date_start = "2016-11-01"
+  date_end = "2017-04-30"
   # description = """ """
 
 [[experience]]
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   company_url = "https://dvv.fi/en/individuals"
   location = "Helsinki, Finland"
   date_start = "2016-05-01"
-  date_end = "2016-07-31"
+  date_end = "2016-06-01"
   # description = """ """
 
 +++
