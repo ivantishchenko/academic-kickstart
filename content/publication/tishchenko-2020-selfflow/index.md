@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion
-subtitle: ''
-summary: 'Pre-print'
+subtitle: '**3DV 2020, Fukuoka, Japan (oral)**'
+summary: '**3DV 2020, Fukuoka, Japan (oral)**'
 authors:
 - Ivan Tishchenko
 - Sandro Lombardi

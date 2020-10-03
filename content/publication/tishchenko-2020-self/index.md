@@ -3,8 +3,8 @@
 
 title: Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion in Dynamic
   3D Scenes
-subtitle: ''
-summary: 'Master''s thesis, Computer Vision and Geometry Group, ETH Zurich'
+subtitle: '**MSc thesis, Computer Vision and Geometry Group, ETH Zurich**'
+summary: '**MSc thesis, Computer Vision and Geometry Group, ETH Zurich**'
 authors:
 - "Ivan Tishchenko" 
 - "supervised by Sandro Lombardi, Dr. Martin Oswald, Prof. Marc Pollefeys"
