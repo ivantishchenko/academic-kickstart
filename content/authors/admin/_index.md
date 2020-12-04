@@ -73,4 +73,4 @@ user_groups:
 
 Welcome to my webpage! I am a Reasearch Assistant at [ETH Zurich](ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](ethz.ch/).
 
-{{< icon name="download" pack="fas" >}} [Download my CV](files/cv.pdf)
+{{< icon name="download" pack="fas" >}} [Download my résumé](files/resume.pdf)
