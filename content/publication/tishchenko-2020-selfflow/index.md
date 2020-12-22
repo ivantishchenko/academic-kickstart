@@ -16,6 +16,8 @@ lastmod: 2020-09-25T19:51:04+02:00
 featured: false
 draft: false
 url_pdf: 'https://arxiv.org/abs/2009.10467'
+url_code: 'https://github.com/ivantishchenko/Self-Supervised_Non-Rigid_Flow_and_Ego-Motion'
+url_video: 'https://slideslive.com/38941127/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
