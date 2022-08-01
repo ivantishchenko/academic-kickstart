@@ -21,9 +21,10 @@ role: Software Engineer
 bio: My research interests include 3D Computer Vision, Self-Supervised Learning and Deep Learning.
 
 interests:
-- 3D Computer Vision
-- Self-Supervised Learning
-- Deep Learning
+- Visual Computing
+- Machine Learning
+- Algorithms & Data Structures
+- Large Scale System Design
 
 education:
   courses:
@@ -54,6 +55,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ivan_tishchenko
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/11266895/tivan
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,6 +76,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my webpage! Currently working in product development in the area of visual computing. Turning research ideas into production code. Formerly, I was a Reasearch Assistant at [ETH Zurich](https://ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](https://ethz.ch/).
+Welcome to my webpage!
+
+Currently working in product development in the area of visual computing. Turning research ideas into production code. Formerly I was a Reasearch Assistant at [ETH Zurich](https://ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](https://ethz.ch/).
 
 {{< icon name="download" pack="fas" >}} [Download my résumé](files/resume.pdf)
