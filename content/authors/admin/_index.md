@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my webpage!
+Hi I'm Ivan. Welcome to my webpage!
 
 Currently working in product development in the area of visual computing. Turning research ideas into production code. Formerly I was a Reasearch Assistant at [ETH Zurich](https://ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](https://ethz.ch/).
 
