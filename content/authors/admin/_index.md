@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Software Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: ETH Zurich
-  url: "https://ethz.ch"
+# organizations:
+# - name: ETH Zurich
+#   url: "https://ethz.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3D Computer Vision, Self-Supervised Learning and Deep Learning.
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my webpage! Currently working in product development in the area of visual computing. Turning research ideas into production code. Formerly I was a Reasearch Assistant at [ETH Zurich](ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](ethz.ch/).
+Welcome to my webpage! Currently working in product development in the area of visual computing. Turning research ideas into production code. Formerly, I was a Reasearch Assistant at [ETH Zurich](https://ethz.ch/), [Computer Vision and Geometry Lab](https://cvg.ethz.ch/). I graduated with a MSc in Computer Science from [ETH Zurich](https://ethz.ch/).
 
 {{< icon name="download" pack="fas" >}} [Download my résumé](files/resume.pdf)
